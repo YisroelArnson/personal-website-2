@@ -1,0 +1,189 @@
+html {
+	color: #444;
+}
+/*navbar*/
+.navbar {
+	position: fixed;
+	box-shadow: 0 1.5px 1px #666;
+	display: inline-block;
+	width: 100%;
+	background-color: #fff;
+}
+
+.navbar a {
+	float: right;
+	padding: 20px;
+	font-size: 25px;
+	color: inherit;
+	transition: color 1s;
+}
+
+.navbar a:hover {
+	color: #bbb;
+}
+
+.navbar .logo {
+	width: 65px;
+	height: 65px;
+	margin: 10px;
+	border-radius: 100%;
+	float: left;
+	background-image: url('https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p160x160/10985264_388817271305114_4162203105879907235_n.jpg?oh=eacf06bd2be1767e2ffc7d01e5f08281&oe=57C27477');
+	background-size: cover;
+}
+/*navbar~*/
+/*banner*/
+.banner {
+	min-height: 650px;
+	box-shadow: 0 1.5px 1px #666;
+	background-color: lightcoral;
+	text-align: center;
+	color: #fff;
+}
+
+.banner .title {
+	padding: 200px 0 25px 0;
+	font-weight: 900;
+	font-size: 150px;
+}
+
+.banner .kicker {
+	font-size: 30px;
+	font-weight: 100;
+}
+
+
+@media screen and (max-width: 1320px) {
+	.banner .title {
+		font-size: 100px;
+	}
+}
+/*banner~*/
+/*about*/
+.about {
+	min-height: 900px;
+	text-align: center;
+}
+
+.self-portrait {
+	background-image: url('https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p160x160/10985264_388817271305114_4162203105879907235_n.jpg?oh=eacf06bd2be1767e2ffc7d01e5f08281&oe=57C27477');
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	margin: 0 auto;
+}
+.about p {
+	font-size: 25px;
+	text-align: justify;
+	width: 350px;
+	display: inline-block;
+	padding: 50px;
+}
+
+.about p:nth-child(4){
+	border-right: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+}
+/*about~*/
+/*testimonials*/
+.testimonials-master-container {
+	background-color: #eee;
+	text-align: center;
+	height: 800px;
+}
+
+.testimonials-master-container h1 {
+	font-size: 60px;
+	font-weight: 900;
+}
+.testimonial-info {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.testimonial-info-2, .testimonial-info-3 {
+	display: none;
+}
+
+.testimonial-image {
+	width: 200px;
+	height: 200px;
+	background-size: cover;
+	background-position: 50% 50%;
+	border-radius: 100%;
+}
+
+.image-1 {
+	background-image: url('http://s3-media1.fl.yelpcdn.com/bphoto/kHFXQnNwSJS7OFfqg1UcEg/l.jpg');
+}
+
+.image-2 {
+	background-image: url('http://static1.squarespace.com/static/521cd626e4b07a1dcabda4a2/529a3fb3e4b00e96518f094e/5396b735e4b08d90c13385d5/1461638545775/Nia+HS-132.jpg?format=750w');
+}
+
+.image-3 {
+	background-image: url('http://markschuelerphoto.com/wp-content/uploads/2012/01/NMC-headshots_blog_1D3_7785.jpg');
+}
+
+.testimonial-name {
+	font-size: 50px;
+	margin: 50px;
+}
+
+.testimonial-quote {
+	text-align: center;
+	font-size: 35px;
+	width: 600px;
+}
+
+.circle-container {
+	display: flex;
+	justify-content: center;
+}
+.circle {
+	width: 25px;
+	height: 25px;
+	margin: 50px;
+	border: 10px solid #555;
+	border-radius: 100%;
+}
+
+.left {
+	background-color: #555;
+}
+
+/*testimonials~*/
+/*contact*/
+.contact {
+	text-align: center;
+}
+.contact h1 {
+	font-size: 60px;
+	font-weight: 900;
+}
+
+.contact .inputs {
+	text-align: center;
+	border: 1px solid #4B77BE;
+	margin: 50px;
+	width: 20%;
+	height: 10%;
+}
+
+.contact-input-container .bottom {
+	text-align: left;
+	width: 70%;
+	height: 40%;
+}
+/*contact~*/
+/*footer*/
+.footer {
+	background-color: #444;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	padding: 15px 20px;
+}
+/*footer~*/

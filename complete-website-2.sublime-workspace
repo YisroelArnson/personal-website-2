@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"flex-r",
+				"flex-wrap"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"co",
+				"column-reverse"
+			],
+			[
+				"text-a",
+				"text-anchor"
+			],
+			[
+				"align-",
+				"align-content"
+			],
+			[
+				"fle",
+				"flex-grow"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"rotate",
+				"rotate3d()"
+			],
+			[
+				"ro",
+				"rotate()"
+			],
+			[
+				"order",
+				"orderTemplate"
+			],
+			[
+				"i",
+				"list-item"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"remove",
+				"remove-order"
+			],
+			[
+				"re",
+				"remove-order"
+			],
+			[
+				"in",
+				"inputDrink"
+			],
+			[
+				"input",
+				"inputName"
+			],
+			[
+				"oder",
+				"orders"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"get",
+				"getElementByTagName"
+			],
+			[
+				"ran",
+				"randomColor"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"s",
+				"hsla()"
+			],
+			[
+				"slider",
+				"slider_container"
+			],
+			[
+				"slides",
+				"slides_amount"
+			],
+			[
+				"slid",
+				"slide_amount"
+			],
+			[
+				"bacgroun",
+				"background-repeat"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"a",
+				"not-allowed"
+			],
+			[
+				"c",
+				"all-scroll"
+			],
+			[
+				"p",
+				"copy"
+			],
+			[
+				"border-bottom",
+				"border-bottom-style"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"photo",
+				"photo_box"
+			],
+			[
+				"te",
+				"text_box"
+			],
+			[
+				"navbar",
+				"navbar-scrolled"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"nav",
+				"navbar-scrolled"
+			],
+			[
+				"ach",
+				"achievements_box"
+			],
+			[
+				"ac",
+				"achievements_box"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"pho",
+				"photo_container"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"trasit",
+				"transition"
+			],
+			[
+				"module",
+				"module"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"shadow",
+				"box-shadow"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"style",
+				"font-style"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"trasn",
+				"transition-duration"
+			],
+			[
+				"border-wid",
+				"border-bottom-width"
+			],
+			[
+				"border-sty",
+				"border-bottom-style"
+			],
+			[
+				"transition-",
+				"transition-property"
+			],
+			[
+				"rot",
+				"rotateX()"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"conten",
+				"content"
+			],
+			[
+				"backround",
+				"background-color"
+			],
+			[
+				"anim",
+				"animation-duration"
+			],
+			[
+				"anima",
+				"animation-name"
+			],
+			[
+				"trasiti",
+				"transition-timing-function"
+			],
+			[
+				"transi",
+				"transition-property"
+			],
+			[
+				"transition",
+				"transition-duration"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"ani",
+				"animation-delay"
+			],
+			[
+				"content",
+				"align-content"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"inline-",
+				"inline-table"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"r",
+				"required	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Yisroel/Documents/GitHub/complete-website-2/flex-box-test.html",
+		"/C/Users/Yisroel/Documents/GitHub/complete-website-2/flex-box-test.css",
+		"/C/Program Files/Sublime Text 3 (3103)/normalize.css",
+		"/C/Users/Yisroel/Documents/GitHub/complete-website-2/normalize-2.css",
+		"/C/Users/Yisroel/Documents/GitHub/complete-website-2/normalize.css",
+		"/C/Users/Yisroel/AppData/Roaming/Microsoft/Windows/Recent/normalize.lnk",
+		"/C/Users/Yisroel/Documents/GitHub/FirstRepositoryTest/index.html",
+		"/C/Program Files/Sublime Text 3 (3103)/order app.js",
+		"/C/Program Files/Sublime Text 3 (3103)/order app.css",
+		"/C/Program Files/Sublime Text 3 (3103)/order app.html",
+		"/C/Program Files/Sublime Text 3 (3103)/yisroel arnson new thingy.css",
+		"/C/Program Files/Sublime Text 3 (3103)/final project.html",
+		"/C/Program Files/Sublime Text 3 (3103)/circle website home page.css",
+		"/C/Program Files/Sublime Text 3 (3103)/circle website home page.html",
+		"/C/Program Files/Sublime Text 3 (3103)/complete website.js",
+		"/C/Program Files/Sublime Text 3 (3103)/complete website.html",
+		"/C/Program Files/Sublime Text 3 (3103)/final project.css",
+		"/C/Program Files/Sublime Text 3 (3103)/final project gallery page.html",
+		"/C/Program Files/Sublime Text 3 (3103)/final project gallery page.css",
+		"/C/Program Files/Sublime Text 3 (3103)/event.js",
+		"/C/Users/Yisroel/Documents/GitHub/FirstRepositoryTest/README.md",
+		"/C/Program Files/Sublime Text 3 (3103)/event.html",
+		"/C/Program Files/Sublime Text 3 (3103)/order app",
+		"/C/Program Files/Sublime Text 3 (3103)/delete this.html",
+		"/C/Program Files/Sublime Text 3 (3103)/AJAX",
+		"/C/Program Files/Sublime Text 3 (3103)/index2.html",
+		"/C/Program Files/Sublime Text 3 (3103)/main.js",
+		"/C/Program Files/Sublime Text 3 (3103)/Mr Alluis, lab1.html",
+		"/C/Program Files/Sublime Text 3 (3103)/Website project 2.html",
+		"/C/Program Files/Sublime Text 3 (3103)/Website project 2.css",
+		"/C/Program Files/Sublime Text 3 (3103)/Website project 1.html",
+		"/C/Program Files/Sublime Text 3 (3103)/Website project 3.html",
+		"/C/Program Files/Sublime Text 3 (3103)/eli_landpage 6.html",
+		"/C/Program Files/Sublime Text 3 (3103)/eli_landpage 5.html",
+		"/C/Program Files/Sublime Text 3 (3103)/eli_landpage 4.html",
+		"/C/Program Files/Sublime Text 3 (3103)/eli_landpage 2.html",
+		"/C/Program Files/Sublime Text 3 (3103)/base_structure 1.html",
+		"/C/Program Files/Sublime Text 3 (3103)/eli_langpage 3.html",
+		"/C/Program Files/Sublime Text 3 (3103)/lab survey.html",
+		"/C/Program Files/Sublime Text 3/finla project.css",
+		"/C/Program Files/Sublime Text 3/asdas.html",
+		"/C/Program Files/Sublime Text 3/kkk.html",
+		"/C/Users/Yisroel/Desktop/demoweb/index.html",
+		"/C/Users/Yisroel/Desktop/demoweb/about.html",
+		"/C/Users/Yisroel/Desktop/demoweb/script.js",
+		"/C/Program Files/Sublime Text 3/hamburger icons.html",
+		"/C/Program Files/Sublime Text 3/eli_landpage 2.html",
+		"/C/Users/Yisroel/Desktop/demoweb/site.css",
+		"/C/Program Files/Sublime Text 3/awra.html",
+		"/C/Program Files/Sublime Text 3/Website project 1.html",
+		"/C/Program Files/Sublime Text 3/Website project 1.css",
+		"/C/Program Files/Sublime Text 3/eli_landpage6.css",
+		"/C/Program Files/Sublime Text 3/Website project 2.css",
+		"/C/Program Files/Sublime Text 3/eli_landpage 6.html",
+		"/C/Program Files/Sublime Text 3/base_structure 1.html",
+		"/C/Program Files/Sublime Text 3/eli_landpage 4.html",
+		"/C/Program Files/Sublime Text 3/normalize.css",
+		"/C/Program Files/Sublime Text 3/eli_langpage 3.html",
+		"/C/Program Files/Sublime Text 3/eli_landpage.html",
+		"/C/Program Files/Sublime Text 3/eli_landpage 5.html",
+		"/C/Program Files/Sublime Text 3/eli_landpage test.html",
+		"/C/Program Files/Sublime Text 3/Mr Alluis, lab1.html",
+		"/C/Program Files/Sublime Text 3/Html and css tutorial, the real boston.html",
+		"/C/Program Files/Sublime Text 3/delete this.html",
+		"/C/Program Files/Sublime Text 3/lab survey.html",
+		"/C/Program Files/Sublime Text 3/slide menu.css",
+		"/C/Program Files/Sublime Text 3/Side menu.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"space-around",
+			"around",
+			"200px",
+			"15",
+			"testimonials",
+			"-",
+			"h1",
+			"/h",
+			"1",
+			"portfolio",
+			"s",
+			"-",
+			"- ",
+			"flex-start",
+			"end",
+			"1",
+			"100px",
+			"444",
+			"2",
+			"a",
+			"A",
+			"a",
+			"A",
+			"a",
+			"div",
+			"1",
+			"2",
+			"5",
+			"2",
+			"div",
+			"span",
+			"div",
+			"2",
+			"_",
+			"<!-- banner",
+			"<!-- banner -->\n",
+			"welcome paragraph",
+			"_",
+			"<a",
+			"a",
+			"span",
+			"button",
+			"span",
+			"'",
+			"\"",
+			"+",
+			"'",
+			"4",
+			"f4",
+			"d3",
+			"9c",
+			"9a",
+			"fb",
+			"fa",
+			"a",
+			"3",
+			"2",
+			"http://rest.learncode.academy/api/yissi/test2",
+			"test",
+			"form",
+			"<form>",
+			"</form>",
+			"}\n",
+			"1",
+			"$('*').",
+			"list-style-type",
+			"list",
+			"width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "complete-website-2.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 219.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
